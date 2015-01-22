@@ -10,10 +10,6 @@
             "email": "erikmanchego@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "erafo\\barcode\\": ""
