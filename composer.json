@@ -1,0 +1,21 @@
+{
+    "name": "erafo/barcode",
+    "description": "Extension for draw barcode",
+    "type": "yii2-extension",
+    "keywords": ["barcode"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Erik",
+            "email": "erikmanchego@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "erafo\\barcode\\": ""
+        }
+    }
+}
